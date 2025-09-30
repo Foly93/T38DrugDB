@@ -1,0 +1,4 @@
+# Compressed Database files are too large anyways and Warnings should be avoided
+T38DrugDB.csv
+*.tar.gz
+*.zip
