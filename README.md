@@ -1,6 +1,8 @@
 # T38DrugDB - ZINC20 Filtered Compound Database
 
-_The Database is available from Github and Zenodo. Zenodo contains the full database while github only contains the executables and README._
+The database lives at:
+- [Zenodo](doi.org/10.5281/zenodo.17410437) (Large data files)
+- [github](github.com/Foly93/T38DrugDB) (Executables and README)
 
 ## Overview
 T38DrugDB provides:
