@@ -1,4 +1,4 @@
-# T38DrugDB - ZINC20 Filtered Compound Database
+# T38DrugDB - Medicinally Relevant Compounds in the ZINC20
 
 The database lives at:
 - [Zenodo](doi.org/10.5281/zenodo.17410437) (Large data files)
