@@ -1,5 +1,5 @@
 # T38DrugDB - Medicinally Relevant Compounds in the ZINC20
-[![DOI](https://zenodo.org/badge/1067084307.svg)](https://zenodo.org/badge/latestdoi/1067084307)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17410437.svg)](https://doi.org/10.5281/zenodo.17410437)
 
 The database lives at:
 - [Zenodo](doi.org/10.5281/zenodo.17410437) (Large data files)
