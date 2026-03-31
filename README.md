@@ -3,6 +3,7 @@
 The database lives at:
 - [Zenodo](doi.org/10.5281/zenodo.17410437) (Large data files)
 - [github](github.com/Foly93/T38DrugDB) (Executables and README)
+- [CSBJ](https://doi.org/10.34133/csbj.0016) (Original Publication)
 
 ## Overview
 T38DrugDB provides:
@@ -117,7 +118,7 @@ T38DrugDB/
 ## Citation
 If you use T38DrugDB in your research, please cite:
 ```
-[Add appropriate citation information here once available]
+Luis Vollmers, Shu-Yu Chen, Martin Zacharias. In Silico Analysis of Potential Stabilizer Binding Sites at Protein–RNA Interfaces. Comput Struct Biotechnol J. 2026;35:0016. DOI:10.34133/csbj.0016
 ```
 
 ## License
@@ -127,4 +128,4 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 For questions, issues, or contributions:
 - luis.vollmers@tum.de
 - zacharias@tum.de
-- %%%publication DOI once available
+- Publication Link: https://doi.org/10.34133/csbj.0016
